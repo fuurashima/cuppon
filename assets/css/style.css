@@ -1,0 +1,81 @@
+/********************/
+/*****css styles*****/
+/********************/
+
+/* header and nav styles */
+.bg-green{
+    background: #28A745;
+}
+
+a.nav-link.active{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+a.nav-link{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+a.nav-link.disabled{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+/* card styles */
+h5.card-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: hsla(210, 11%, 15%, 1);
+}
+
+p.card-text{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: hsla(0, 0%, 44%, 1);
+}
+
+p.location{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: hsla(0, 0%, 44%, 1);
+}
+
+p.old_price{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: hsla(0, 0%, 44%, 1);
+}
+
+p.new_price{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: hsla(134, 61%, 41%, 1);
+}
+
+/* form styles*/
+.form-title{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: hsla(0, 0%, 100%, 1);
+    text-align: center;
+}
+
+input.form-control{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: hsla(0, 0%, 44%, 1);    
+}
+
+button.btn{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: hsla(210, 11%, 15%, 1);  
+}
+
+p.copy{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: hsla(0, 0%, 44%, 1);
+    text-align: center;  
+}
